@@ -39,7 +39,7 @@ smartbank/
 ---
 
 ## 🧩 Database Schema
-
+```
 ### 1️⃣ `users` Table
 | Field | Type | Description |
 |-------|------|--------------|
@@ -60,7 +60,7 @@ smartbank/
 | uploaded_at | TIMESTAMP | Default: current timestamp |
 
 ---
-
+```
 ## ⚡ Setup Instructions
 
 ### 1️⃣ Clone the Repository
