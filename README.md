@@ -17,6 +17,7 @@ It enables users to **register**, **log in**, and **upload simulated KYC documen
 ---
 
 ## 🧱 Project Structure (Simplified)
+```
 smartbank/
 │
 ├── app/
@@ -35,11 +36,11 @@ smartbank/
 ├── .gitignore                # To exclude .env and venv
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project info
-
+```
 ---
 
 ## 🧩 Database Schema
-```
+
 ### 1️⃣ `users` Table
 | Field | Type | Description |
 |-------|------|--------------|
@@ -60,7 +61,7 @@ smartbank/
 | uploaded_at | TIMESTAMP | Default: current timestamp |
 
 ---
-```
+
 ## ⚡ Setup Instructions
 
 ### 1️⃣ Clone the Repository
